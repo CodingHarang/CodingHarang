@@ -2,7 +2,7 @@
 
 ### Tech Stack
 <a><img src ="https://img.shields.io/badge/JAVA-000000?&style=plastic&logo=JAVA&logoColor=FFFFFF"/></a>
-<a><img src ="https://img.shields.io/badge/Android-3DDC84?&style=plastic&logo=JAVA&logoColor=FFFFFF"/></a>
+<a><img src ="https://img.shields.io/badge/Android-3DDC84?&style=plastic&logo=Android&logoColor=FFFFFF"/></a>
 
 <!--
 **CodingHarang/CodingHarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
