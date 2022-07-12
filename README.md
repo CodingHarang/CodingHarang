@@ -7,7 +7,7 @@
 ### Tools
 <a><img src ="https://img.shields.io/badge/GitHub-181717?&style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
 <a><img src ="https://img.shields.io/badge/AndroidStudio-3DDC84?&style=plastic&logo=AndroidStudio&logoColor=FFFFFF"/></a>
-<a><img src ="https://img.shields.io/badge/IntelliJ IDEA-000000?&style=plastic&logo=IntelliJ IDEA&logoColor=FFFFFF"/></a>
+<a><img src ="https://img.shields.io/badge/IntelliJ-000000?&style=plastic&logo=IntelliJ IDEA&logoColor=FFFFFF"/></a>
 
 <!--
 **CodingHarang/CodingHarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
