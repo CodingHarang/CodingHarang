@@ -1,7 +1,8 @@
 ### Harang's GitHub 👋
 
 
-<a><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<JAVA>&color=<#000000>"/></a>
+<a><img src="<src ="https://img.shields.io/badge/JAVA-000000.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
+"/></a>
 <!--
 **CodingHarang/CodingHarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
