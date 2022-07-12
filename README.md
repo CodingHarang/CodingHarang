@@ -1,7 +1,7 @@
 ### Harang's GitHub 👋
 
 ### Tech Stack
-<a><img src ="https://img.shields.io/badge/JAVA-000000?&style=plastic&logo=JAVA&logoColor=FFFFFF"/></a>
+<a><img src ="https://img.shields.io/badge/Java-000000?&style=plastic&logo=Java&logoColor=FFFFFF"/></a>
 <a><img src ="https://img.shields.io/badge/Android-3DDC84?&style=plastic&logo=Android&logoColor=FFFFFF"/></a>
 
 <!--
